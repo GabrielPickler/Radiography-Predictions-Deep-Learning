@@ -6,7 +6,7 @@ Requerimentos:
 - Python 3.8
 - Pycharm
 - As dependências estão no arquivo requirements.txt, para instalar as versões basta clonar o projeto que a própria IDE já baixa todas as dependências. (Qualquer dúvida <a href="https://www.jetbrains.com/help/pycharm/managing-dependencies.html#apply_dependencies">🔗 clique aqui</a>)
-- TensorFlow (Caso tenha problemas para rodar o projeto, verifique os requisitos do tensorflow <a href="https://www.tensorflow.org/install/pip?hl=pt-br">aqui</a>
+- TensorFlow (Caso tenha problemas para rodar o projeto, verifique os requisitos do tensorflow <a href="https://www.tensorflow.org/install/pip?hl=pt-br">aqui</a>)
 
 # Configurando o banco de imagens
 
